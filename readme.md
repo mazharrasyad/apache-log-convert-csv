@@ -5,21 +5,58 @@
 
 # How to use
 
-- python convert.py
-
-# Format Log
-
-- (?P<ip>._?) (?P<remote_log_name>._?) (?P<userid>._?) \[(?P<date>._?)(?= ) (?P<timezone>._?)\] \"(?P<request_method>._?) (?P<path>._?) (?P<request_version> HTTP/._)?\" (?P<status>._?) (?P<length>._?) \"(?P<referrer>._?)\" \"(?P<user_agent>._?)\" (?P<session*id>.*?) (?P<virtual*host>.*)
+```
+python convert.py
+```
 
 # Header
 
-- ip_address remote_log_name userid date timezone request_method path request_version status length referrer user_agent session_id virtual_host
+- ip_address
+- remote_log_name
+- userid
+- date
+- timezone
+- request_method
+- path
+- request_version
+- status
+- length
+- referrer
+- user_agent
+- session_id
+- virtual_host
 
 # Example Log
 
 - 103.4.167.101 - - [08/Mar/2021:06:25:07 +0700] "HEAD / HTTP/1.0" 200 0 "-" "-" "-" -
-- 40.77.167.6 - - [08/Mar/2021:06:25:28 +0700] "GET /index.php/JIT/article/download/81/88/378 HTTP/1.1" 200 737361 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.11:443
+- 40.77.167.6 - - [08/Mar/2021:06:25:28 +0700] "GET /index.php/article/81/378 HTTP/1.1" 200 737361 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.11:443
 - 66.249.71.69 - - [08/Mar/2021:06:25:31 +0700] "GET /robots.txt HTTP/1.1" 404 152 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-" -
+
+# Example Result CSV
+
+- From
+
+```
+40.77.167.6 - - [08/Mar/2021:06:25:28 +0700] "GET /index.php/article/81/378 HTTP/1.1" 200 737361 "-" "Mozilla/5.0
+```
+
+- To
+  Header | Log
+  --- | ---
+  ip_address | 40.77.167.6  
+  remote_log_name | -
+  userid | -
+  date | [08/Mar/2021:06:25:28
+  timezone | +0700]
+  request_method | "GET
+  path | /index.php/article/81/378
+  request_version | HTTP/1.1"
+  status | 200
+  length | 737361
+  referrer | "-"
+  user_agent | "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+  session_id | "-"
+  virtual_host | 172.17.0.11:443
 
 # Example Different Format Log
 
