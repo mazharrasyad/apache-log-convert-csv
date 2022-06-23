@@ -1,0 +1,30 @@
+103.4.167.101 - - [08/Mar/2021:06:25:07 +0700] "HEAD / HTTP/1.0" 200 0 "-" "-" "-" -
+40.77.167.6 - - [08/Mar/2021:06:25:28 +0700] "GET /index.php/JIT/article/download/81/88/378 HTTP/1.1" 200 737361 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.11:443
+66.249.71.69 - - [08/Mar/2021:06:25:31 +0700] "GET /robots.txt HTTP/1.1" 404 152 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-" -
+192.241.226.104 - - [08/Mar/2021:07:49:35 +0700] "\x16\x03\x01\x00\x8D\x01\x00\x00\x89\x03\x03\x80Q\xA5\xF2\xE8\xB8\xBE" 400 182 "-" "-" "-" -
+66.249.71.69 - - [08/Mar/2021:06:25:31 +0700] "GET /index.php/JTT/issue/archive HTTP/1.1" 404 209 "-" "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-" -
+103.4.167.101 - - [08/Mar/2021:06:25:37 +0700] "HEAD / HTTP/1.0" 200 0 "-" "-" "-" -
+13.66.139.150 - - [08/Mar/2021:06:26:05 +0700] "GET /index.php/jtt/announcement/view/1 HTTP/1.1" 302 0 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.11:443
+80.82.77.139 - - [08/Mar/2021:12:55:26 +0700] "" 400 0 "-" "-" "-" -
+13.66.139.150 - - [08/Mar/2021:06:26:06 +0700] "GET /index.php/jtt/announcement HTTP/1.1" 200 5877 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.11:443
+103.140.108.74 - - [08/Mar/2021:06:27:02 +0700] "POST /login/index.php HTTP/1.1" 303 460 "-" "python-requests/2.18.4" "-" 172.17.0.6:80
+103.140.108.74 - - [08/Mar/2021:06:27:02 +0700] "GET /login/index.php?testsession=2382 HTTP/1.1" 303 428 "-" "python-requests/2.18.4" "-" 172.17.0.6:80
+2.57.122.97 - - [08/Mar/2021:07:56:38 +0700] "" 400 0 "-" "-" "-" -
+2.57.122.97 - - [08/Mar/2021:11:16:45 +0700] "" 400 0 "-" "-" "-" -
+89.248.172.90 - - [08/Mar/2021:12:26:05 +0700] "\x04\x01\x00P3OU\xBE0\x00" 400 182 "-" "-" "-" -
+89.248.172.90 - - [08/Mar/2021:12:26:06 +0700] "\x04\x01\x00P3OU\xBE0\x00" 400 182 "-" "-" "-" -
+103.140.108.74 - - [08/Mar/2021:06:27:02 +0700] "POST /login/index.php HTTP/1.1" 303 460 "-" "python-requests/2.18.4" "-" 172.17.0.6:80
+89.248.172.90 - - [08/Mar/2021:12:26:06 +0700] "\x05\x01\x00" 400 182 "-" "-" "-" -
+80.82.77.139 - - [08/Mar/2021:12:55:24 +0700] "" 400 0 "-" "-" "-" -
+80.82.77.139 - - [08/Mar/2021:12:55:24 +0700] "" 400 0 "-" "-" "-" -
+2.57.122.97 - - [08/Mar/2021:13:24:16 +0700] "" 400 0 "-" "-" "-" -
+172.104.242.173 - - [08/Mar/2021:13:38:52 +0700] "\xBA\xABd\xA1EZC\xDBM\x87\xEE^\xFD\xBF\x159 X\xD4>\x12\x98\xC4<\xE0\x13\xCF\x00\xAC\xA09\xD7\x90#8~\x8C\xDE\x9DReF\xBF%1Q\xE0\x9D\x06&g\xBB\x82\x95\x19\xED\x07\x14\x19ZP\x80+\x94e\xC3\xE6\x85\x06\xA4\x99\x8B\x19l\x01\xEA\x88Y\x91\x16\x95\xC4\xC8\x0EH\x02\xC7\x93g\xC14FW\x05|\xFB\xF3T\xB8\xFD\xCB\xBB)\xE3\xCE\xDD\xCD7\x9E\xEFP\x8C\xA4[V\xFD\x98\xC9l\x82\xF5\xE4\xC1d\x87X\xF7\x9B\xBF\xE8q\x12\x99&\xDB,\xF5\x87\xD7\xA8\x97j;\xE3\xEA\xA7\xB4\xB0\x02\xAD\x8DE\x9B\xAAB\x80\x0E)\xA9\xE9\xAF}\x18\x8E\xB8\x1E\x99\x04\xEF\xA8\x8C\xE8\x04\xE2\xD3\xED)1\x91\xC1\x8F\x88\x8C\x81\xF0\xDB\xA5\x88\x95H\x9BZ\xAB\xCE\xBF\xF4E%P*\x88KFY6\x9E\xE7::j\xD4\x8A\xA8V\x9A\xAA\xAB\xAF\xC3&.\xED[\x04\xC5e\x7F\x08\xBE\x8Ar\xA7\xB0\x99F\xF7\x11\xE5\xD6\x96\x8CIm+w\x1C\xFDuU\x14\x0F!x\xAC\xE8MPy\xC3\x19!2\xA0\xED\xC0}!Rw\x14\x8E\x1B\xC4\xE1\xA0\xAF+\xADKk\xC5\xE0\x5Cs\x9C\xBD\xCB" 400 182 "-" "-" "-" -
+103.4.167.101 - - [08/Mar/2021:06:26:07 +0700] "HEAD / HTTP/1.0" 200 0 "-" "-" "-" -
+185.191.171.10 - - [08/Mar/2021:06:26:32 +0700] "GET /robots.txt HTTP/1.1" 404 256 "-" "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)" "-" 172.17.0.6:80
+185.191.171.45 - - [08/Mar/2021:06:26:34 +0700] "GET /mod/forum/discuss.php?d=2019 HTTP/1.1" 200 8168 "-" "Mozilla/5.0 (compatible; SemrushBot/7~bl; +http://www.semrush.com/bot.html)" "-" 172.17.0.6:80
+157.55.39.14 - - [08/Mar/2021:06:26:36 +0700] "GET /robots.txt HTTP/1.1" 404 237 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.10:80
+157.55.39.14 - - [08/Mar/2021:06:26:37 +0700] "GET /robots.txt HTTP/1.1" 404 237 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)" "-" 172.17.0.10:80
+103.4.167.101 - - [08/Mar/2021:06:26:37 +0700] "HEAD / HTTP/1.0" 200 0 "-" "-" "-" -
+2.57.122.97 - - [08/Mar/2021:15:55:00 +0700] "" 400 0 "-" "-" "-" -
+176.58.124.134 - - [08/Mar/2021:16:24:42 +0700] "\x01\xAA\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00" 400 182 "-" "-" "-" -
+66.249.71.69 - - [08/Mar/2021:06:25:31 +0700] "GET /robots.txt HTTP/1.1" 404 152 "-" "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" "-" -
