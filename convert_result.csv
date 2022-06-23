@@ -1,11 +1,11 @@
 ip_address,remote_log_name,userid,date,timezone,request_method,path,request_version,status,length,referrer,user_agent,session_id,virtual_host
 103.4.167.101,-,-,08/Mar/2021:06:25:07,+0700,HEAD,/,HTTP/1.0,200,0,-,-,"""-""",-
-40.77.167.6,-,-,08/Mar/2021:06:25:28,+0700,GET,/index.php/JIT/article/download/81/88/378,HTTP/1.1,200,737361,-,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),"""-""",172.17.0.11:443
+40.77.167.6,-,-,08/Mar/2021:06:25:28,+0700,GET,/index.php/378,HTTP/1.1,200,737361,-,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),"""-""",172.17.0.11:443
 66.249.71.69,-,-,08/Mar/2021:06:25:31,+0700,GET,/robots.txt,HTTP/1.1,404,152,-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),"""-""",-
-66.249.71.69,-,-,08/Mar/2021:06:25:31,+0700,GET,/index.php/JTT/issue/archive,HTTP/1.1,404,209,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)","""-""",-
+66.249.71.69,-,-,08/Mar/2021:06:25:31,+0700,GET,/index.php/issue/archive,HTTP/1.1,404,209,-,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.188 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)","""-""",-
 103.4.167.101,-,-,08/Mar/2021:06:25:37,+0700,HEAD,/,HTTP/1.0,200,0,-,-,"""-""",-
-13.66.139.150,-,-,08/Mar/2021:06:26:05,+0700,GET,/index.php/jtt/announcement/view/1,HTTP/1.1,302,0,-,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),"""-""",172.17.0.11:443
-13.66.139.150,-,-,08/Mar/2021:06:26:06,+0700,GET,/index.php/jtt/announcement,HTTP/1.1,200,5877,-,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),"""-""",172.17.0.11:443
+13.66.139.150,-,-,08/Mar/2021:06:26:05,+0700,GET,/index.php/announcement/view/1,HTTP/1.1,302,0,-,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),"""-""",172.17.0.11:443
+13.66.139.150,-,-,08/Mar/2021:06:26:06,+0700,GET,/index.php/announcement,HTTP/1.1,200,5877,-,Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm),"""-""",172.17.0.11:443
 103.140.108.74,-,-,08/Mar/2021:06:27:02,+0700,POST,/login/index.php,HTTP/1.1,303,460,-,python-requests/2.18.4,"""-""",172.17.0.6:80
 103.140.108.74,-,-,08/Mar/2021:06:27:02,+0700,GET,/login/index.php?testsession=2382,HTTP/1.1,303,428,-,python-requests/2.18.4,"""-""",172.17.0.6:80
 103.140.108.74,-,-,08/Mar/2021:06:27:02,+0700,POST,/login/index.php,HTTP/1.1,303,460,-,python-requests/2.18.4,"""-""",172.17.0.6:80
